@@ -2,7 +2,7 @@
 
 - ⚡️ I’m currently pursuing B.Com under Dibrugarh University, Assam
 - ⚡️ I’m a keen learner and I've interest in Android Development and learning programming languages.
-- ⚡️ Devices I own are 10.or E, Redmi note 9S
+- ⚡️ Devices I own are 10.or E, Redmi note 9S, Poco F5
 <a href="https://t.me/popoASM">
   <img align="left" alt="popoA3M's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
