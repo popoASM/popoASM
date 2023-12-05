@@ -4,11 +4,11 @@
 - ⚡️ I’m a keen learner and I've interest in Android Development and learning programming languages.
 - ⚡️ Devices I own are 10.or E, Redmi note 9S, Poco F5
 <a href="https://t.me/popoASM">
-  <img align="left" alt="popoA3M's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+  <img align="left" alt="popoASM's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 <a href="https://forum.xda-developers.com/m/pratyay1245.9414744/">
   <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/public/build/images/favicon-48x48.8f822f21.png" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=popoA3M&style=flat-square" alt="popoA3M" /><br>
+<img src="https://komarev.com/ghpvc/?username=popoASM&style=flat-square" alt="popoASM" /><br>
 
-[![popoA3M's github stats](https://readmestats.999857.xyz/api?username=popoA3M&include_all_commits=true&theme=dracula)](https://github.com/popoA3M)
+[![popoASM's github stats](https://readmestats.999857.xyz/api?username=popoASM&include_all_commits=true&theme=dracula)](https://github.com/popoASM)
